@@ -18,6 +18,8 @@
 | --- | --- | --- | --- | -- |
 | $4590C | 320 × 147 | 29400 | Logo + cathedral (top panel) | ![logo_320x147x5](work/assets/logo_320x147x5.png)
 | $4CBE4 | 192 × 64 | 7680 | sheet of 32×32 icons | ![icons_192x64x5](work/assets/icons_192x64x5.png)
+| $4E9E4 | 160 × 88 | 8800 | Portrait A | ![photo1_160x88x5](work/assets/photo1_160x88x5.png)
+| $50C44 | 160 × 88 | 8800 | Portrait B (1989 obituary) | ![photo2_160x88x5](work/assets/photo2_160x88x5.png)
 
 
 
