@@ -22,6 +22,7 @@
 | $4E9E4 | 160 × 88 | 8800 | Portrait A | ![photo1_160x88x5](work/assets/photo1_160x88x5.png)
 | $50C44 | 160 × 88 | 8800 | Portrait B (1989 obituary) | ![photo2_160x88x5](work/assets/photo2_160x88x5.png)
 | $52EA4 | 320 × 49 | 9800 | Bottom panel, 8 gothic windows | ![panel_320x49x5](work/assets/panel_320x49x5.png)
+| $554EC | 320 × 300 | 60000 | Font sheet, 10×6 grid of 32×50 glyphs | ![font_320x300x5_scrollpal](work/assets/font_320x300x5_scrollpal.png)
 
 
 ### Address	Size (px)	BPR × Rows	Plane stride	Total bytes	BitMap struct	Content
