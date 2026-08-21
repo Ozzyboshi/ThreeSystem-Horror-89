@@ -16,8 +16,8 @@
 
 | Address | Size (px) | Size (bytes | Description | Img |
 | --- | --- | --- | --- | -- |
-| $4590C | 320 × 147	40 × 147 | 29400 | Logo + cathedral (top panel) | ![logo_320x147x5](work/assets/logo_320x147x5.png)
-| $4CBE4 | 192 × 64 | 7680 | sheet of 32×32 icons | ?????
+| $4590C | 320 × 147 | 29400 | Logo + cathedral (top panel) | ![logo_320x147x5](work/assets/logo_320x147x5.png)
+| $4CBE4 | 192 × 64 | 7680 | sheet of 32×32 icons | ![icons_192x64x5](work/assets/icons_192x64x5.png)
 
 
 
