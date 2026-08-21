@@ -11,6 +11,7 @@
 - Pattern data	$14FCC – $197CC (18 × 1024)
 - Sample data	$197CC – $442C6 (174,842 bytes)
 - End / total size	$442C6 — 193,874 bytes ($2F552)
+- ### 🎵 Music [▶️ Play goomy.mod](https://www.stef.be/bassoontracker/?file=https%3A%2F%2Fraw.githubusercontent.com%2FOzzyboshi%2FThreeSystem-Horror-89%2Fmain%2Fwork%2Fassets%2Fgoomy.mod)
 
 ## Graphics — all raw planar, 5 bitplanes, lores
 
